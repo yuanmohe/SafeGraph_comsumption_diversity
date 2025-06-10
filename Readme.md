@@ -1,0 +1,1 @@
+This repository contains codes and data related to the paper "High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels".
