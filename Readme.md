@@ -34,10 +34,10 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis.
 - outputs: Appendix Table A1 and Figure A1
-- aggregated data: `selected_cbg_brand.csv`, `brand_cat.csv`, `selected_cbg_stats.csv`
+- aggregated data: selected_cbg_brand.csv, brand_cat.csv, selected_cbg_stats.csv
 
 `02_yelp_data.ipynb` cleans yelp data.
-- aggregated data: `yelp_labelled.csv`
+- aggregated data: yelp_labelled.csv
 
 `03_lasso_prediction.ipynb`  uses lasso regression analysis to predict the median household income of the CBGs.
 - outputs: Appendix B.
@@ -48,7 +48,7 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
 - outputs: Figure 4, Table 1 and Table 2.
-- aggregated data: `cbg_diversity.csv`
+- aggregated data: cbg_diversity.csv
 
-`06_availability_mobility.ipynb` calculates the localavailability and mobility measures of the selected CBGs.
-- aggregated data: `cbg_availability.csv`, `cbg_mobility.csv`
+`06_availability_mobility.ipynb` calculates the local availability and mobility measures of the selected CBGs.
+- aggregated data: cbg_availability.csv, cbg_mobility.csv
