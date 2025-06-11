@@ -26,7 +26,14 @@ def read_raw_data(timefile, state, n_files):
 
 def unpack_home_cbgs(df):
     """
-    unpack the json column ''visitor_home_cbgs''
+    Input the SafeGraph dataframe, 
+    unpack the json column ''visitor_home_cbgs'',
+    return a dataframe with each row as a visitor home CBG and the corresponding placekey and brand.
+    The output dataframe will have the following columns:
+    - placekey: the unique identifier for the POI
+    - brands: the brand of the place
+    - visitor_home_cbgs: the CBG of the visitor's home
+    - cbg_visitor_count: the number of visitors from that CBG
     """
     
     # convert jsons to dicts
@@ -46,7 +53,10 @@ def unpack_home_cbgs(df):
 
 def unpack_related_brand(df, var_name):
     """
-    unpack the json column 'related_same_month_brand', 'related_same_week_brand'
+    This function is used to unpack the json columns 'related_same_month_brand', 'related_same_week_brand'.
+    Input the SafeGraph dataframe,
+    var_name: the name of the json column to unpack, e.g. 'related_same_month_brand', 'related_same_week_brand'
+    Output a dataframe with each row as a related brand and the corresponding visitor counts.      
     """
 
     # convert jsons to dicts
@@ -66,7 +76,7 @@ def unpack_related_brand(df, var_name):
 
 def get_covisit_edgelist(df, var_name):
     """
-    get the same-month covisit edgelist from the dataframe
+    Get the covisit edgelist from the dataframe.
     """
 
     # unpack json column
@@ -89,7 +99,7 @@ def get_covisit_edgelist(df, var_name):
 
 def get_covisit_matrix(covisit_edgelist, var_name):
     """
-    transfer the covisit network from edgelist to matrix
+    Transfer the covisit network from edgelist to matrix.
     """
     # groupby and unstack to get the matrix
     covisit_matrix = covisit_edgelist.groupby(['brands', var_name]).agg({'weight': np.mean}).unstack()
@@ -109,7 +119,7 @@ def get_covisit_matrix(covisit_edgelist, var_name):
 
 def get_brand_cat(df):
     """
-    get the brand and category info from the dataframe
+    Get the brand and category info from the dataframe.
     """
     brand_cat = df[['brands', 'naics_code', 'top_category', 'sub_category']]
     brand_cat = brand_cat.groupby(['brands', 'naics_code', 'top_category', 'sub_category']).sum().reset_index()

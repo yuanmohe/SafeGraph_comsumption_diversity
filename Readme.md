@@ -23,6 +23,9 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `brand_median.csv`
 - median household incomes among the visitors of the 924 selected brands.
 
+`cbg_diversity.csv`
+- diversity measures for the selected 13,653 CBGs.
+
 # Scripts
 
 `utilities.py` functions for data cleaning.
@@ -44,5 +47,5 @@ This repository contains codes and data related to the paper "High Socioeconomic
 - aggregated data: brand_median.csv
 
 `05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
-- outputs
-
+- outputs: Figure 4, Table 1 and Table 2.
+- aggregated data: `cbg_diversity.csv`
