@@ -46,4 +46,3 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
 - outputs
 
-../SafeGraph_new/
