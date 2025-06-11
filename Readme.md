@@ -49,3 +49,6 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
 - outputs: Figure 4, Table 1 and Table 2.
 - aggregated data: `cbg_diversity.csv`
+
+`06_availability_mobility.ipynb` calculates the localavailability and mobility measures of the selected CBGs.
+- aggregated data: `cbg_availability.csv`, `cbg_mobility.csv`
