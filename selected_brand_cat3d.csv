@@ -1,0 +1,925 @@
+brands,naics3,naics3_category
+& Other Stories,448,Clothing and Clothing Accessories Stores
+&pizza,722,Food Services and Drinking Places
+1-800-Flowers,453,Miscellaneous Store Retailers
+10 Spot/MadRag,448,Clothing and Clothing Accessories Stores
+110 Grill,722,Food Services and Drinking Places
+16 Handles,722,Food Services and Drinking Places
+24 Hour Fitness,713,"Amusement, Gambling, and Recreation Industries"
+2nd Wind Exercise Equipment,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+5 Napkin Burger,722,Food Services and Drinking Places
+5.11 Tactical,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+7 For All Mankind,448,Clothing and Clothing Accessories Stores
+7-Eleven,445,Food and Beverage Stores
+76,447,Gasoline Stations
+800 Degrees Woodfired Kitchen,722,Food Services and Drinking Places
+99 Restaurants,722,Food Services and Drinking Places
+9Round,713,"Amusement, Gambling, and Recreation Industries"
+A&W Restaurants,722,Food Services and Drinking Places
+A.C. Moore,453,Miscellaneous Store Retailers
+A.P.C. Store,446,Health and Personal Care Stores
+ACME Sav-on Pharmacy,446,Health and Personal Care Stores
+ALDI,445,Food and Beverage Stores
+ALDO,448,Clothing and Clothing Accessories Stores
+AMC Entertainment,512,Motion Picture and Video Industries
+AMF,713,"Amusement, Gambling, and Recreation Industries"
+Aaron's,532,Rental and Leasing Services
+Abbott's Frozen Custard,722,Food Services and Drinking Places
+Abercrombie,448,Clothing and Clothing Accessories Stores
+Acme Markets,445,Food and Beverage Stores
+Acorn Markets,445,Food and Beverage Stores
+Adidas,448,Clothing and Clothing Accessories Stores
+Adult Mart,453,Miscellaneous Store Retailers
+Adventure Landing,713,"Amusement, Gambling, and Recreation Industries"
+Against All Odds,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Alamo Drafthouse Cinema,512,Motion Picture and Video Industries
+Alexander McQueen,448,Clothing and Clothing Accessories Stores
+Allen Edmonds,448,Clothing and Clothing Accessories Stores
+Altitude Trampoline Parks,713,"Amusement, Gambling, and Recreation Industries"
+Amazon Books,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Amazon Go,722,Food Services and Drinking Places
+America's Food Basket,445,Food and Beverage Stores
+American Eagle Outfitters,448,Clothing and Clothing Accessories Stores
+American Girl,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Amorino Gelato,722,Food Services and Drinking Places
+Anderson's Frozen Custard,722,Food Services and Drinking Places
+Angelika Film Center,512,Motion Picture and Video Industries
+Ann Taylor,448,Clothing and Clothing Accessories Stores
+Annie Sez,448,Clothing and Clothing Accessories Stores
+Anthony's Coal Fired Pizza,722,Food Services and Drinking Places
+Anthropologie,448,Clothing and Clothing Accessories Stores
+Anytime Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Applebee's,722,Food Services and Drinking Places
+Arby's,722,Food Services and Drinking Places
+Aritzia,448,Clothing and Clothing Accessories Stores
+Armani Exchange (A/X),448,Clothing and Clothing Accessories Stores
+Artichoke Pizza,722,Food Services and Drinking Places
+Artist & Craftsman Supply,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Ashley Stewart,448,Clothing and Clothing Accessories Stores
+Aspen Athletic Clubs,713,"Amusement, Gambling, and Recreation Industries"
+Associated Supermarkets,445,Food and Beverage Stores
+Athleta,448,Clothing and Clothing Accessories Stores
+Atlantis Fresh Market,447,Gasoline Stations
+Atomic Wings,722,Food Services and Drinking Places
+Au Bon Pain,722,Food Services and Drinking Places
+Audibel,453,Miscellaneous Store Retailers
+Auntie Anne's,722,Food Services and Drinking Places
+Aéropostale,448,Clothing and Clothing Accessories Stores
+B.GOOD,722,Food Services and Drinking Places
+BCBG,448,Clothing and Clothing Accessories Stores
+BCBGeneration,448,Clothing and Clothing Accessories Stores
+BHLDN,448,Clothing and Clothing Accessories Stores
+BJ's Restaurants,722,Food Services and Drinking Places
+BJ's Wholesale Club,452,General Merchandise Stores
+BJ's Wholesale Club Gas,447,Gasoline Stations
+BK Pilates,713,"Amusement, Gambling, and Recreation Industries"
+BP,447,Gasoline Stations
+Babeland,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Bad Axe Throwing,713,"Amusement, Gambling, and Recreation Industries"
+Bahama Breeze,722,Food Services and Drinking Places
+Balduccis,445,Food and Beverage Stores
+Balenciaga,448,Clothing and Clothing Accessories Stores
+Bambu,722,Food Services and Drinking Places
+Banana Republic,448,Clothing and Clothing Accessories Stores
+Bandier,448,Clothing and Clothing Accessories Stores
+BareBurger,722,Food Services and Drinking Places
+Barnes and Noble,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Barnes and Noble College,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Barneys New York,452,General Merchandise Stores
+Barry's Bootcamp,713,"Amusement, Gambling, and Recreation Industries"
+Baskin Robbins,722,Food Services and Drinking Places
+Bass Pro Shops,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Bath & Body Works,446,Health and Personal Care Stores
+Beatnic,722,Food Services and Drinking Places
+Beef Jerky Outlet,445,Food and Beverage Stores
+Beltone,446,Health and Personal Care Stores
+Ben & Jerry's,722,Food Services and Drinking Places
+Benefit Cosmetics,446,Health and Personal Care Stores
+Benihana,722,Food Services and Drinking Places
+Best Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Best Market,445,Food and Beverage Stores
+Big Lots Stores,452,General Merchandise Stores
+Big M Supermarkets,445,Food and Beverage Stores
+Bill Gray's,722,Food Services and Drinking Places
+Bimbo Bakeries,722,Food Services and Drinking Places
+Blackstone Steakhouse,722,Food Services and Drinking Places
+Blaze Pizza,722,Food Services and Drinking Places
+Blick Art Materials,453,Miscellaneous Store Retailers
+Blimpie,722,Food Services and Drinking Places
+Blink Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Bloomingdale's,452,General Merchandise Stores
+Blue Bottle Coffee,722,Food Services and Drinking Places
+Bluestone Lane,722,Food Services and Drinking Places
+Bob Evans,722,Food Services and Drinking Places
+Bob's Stores,448,Clothing and Clothing Accessories Stores
+Boba Guys,722,Food Services and Drinking Places
+Body & Brain Yoga Tai Chi,713,"Amusement, Gambling, and Recreation Industries"
+Bolla Market,447,Gasoline Stations
+Bonanza & Ponderosa Steakhouse,722,Food Services and Drinking Places
+Bonchon,722,Food Services and Drinking Places
+Bonefish Grill,722,Food Services and Drinking Places
+Book Warehouse,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Boqueria,722,Food Services and Drinking Places
+Boscov's,452,General Merchandise Stores
+Boston Market,722,Food Services and Drinking Places
+Bottega Veneta,452,General Merchandise Stores
+Bounce Trampoline Sports,713,"Amusement, Gambling, and Recreation Industries"
+BounceU,713,"Amusement, Gambling, and Recreation Industries"
+Bow Tie Cinemas,512,Motion Picture and Video Industries
+Bowlero,713,"Amusement, Gambling, and Recreation Industries"
+Bowlmor Lanes,713,"Amusement, Gambling, and Recreation Industries"
+BoxLunch,453,Miscellaneous Store Retailers
+Bravo Supermarkets,445,Food and Beverage Stores
+Brooklyn Boulders,713,"Amusement, Gambling, and Recreation Industries"
+Brooklyn Fare,445,Food and Beverage Stores
+Brooklyn Harvest Markets,445,Food and Beverage Stores
+Brooks Brothers,448,Clothing and Clothing Accessories Stores
+Bruegger's,722,Food Services and Drinking Places
+Bubba Gump Shrimp,722,Food Services and Drinking Places
+Bubbakoo's Burritos,722,Food Services and Drinking Places
+Buca di Beppo,722,Food Services and Drinking Places
+Buffalo Exchange,453,Miscellaneous Store Retailers
+Buffalo Wild Wings,722,Food Services and Drinking Places
+Build A Bear Workshop,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Burberry,448,Clothing and Clothing Accessories Stores
+Burger King,722,Food Services and Drinking Places
+Burger Village,722,Food Services and Drinking Places
+BurgerFi,722,Food Services and Drinking Places
+Burgerim,722,Food Services and Drinking Places
+Burlington,448,Clothing and Clothing Accessories Stores
+Burn Boot Camp,713,"Amusement, Gambling, and Recreation Industries"
+Buy Buy Baby,448,Clothing and Clothing Accessories Stores
+Byrne Dairy,445,Food and Beverage Stores
+C Town Supermarkets,445,Food and Beverage Stores
+C.H. MARTIN,452,General Merchandise Stores
+CAVA,722,Food Services and Drinking Places
+CITGO,447,Gasoline Stations
+CKO Kickboxing,713,"Amusement, Gambling, and Recreation Industries"
+CVS,446,Health and Personal Care Stores
+CVS Pharmacy,446,Health and Personal Care Stores
+Cabela's,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Cafe Metro,722,Food Services and Drinking Places
+Calexico,722,Food Services and Drinking Places
+California Pizza Kitchen,722,Food Services and Drinking Places
+Calvin Klein,448,Clothing and Clothing Accessories Stores
+Calzedonia,448,Clothing and Clothing Accessories Stores
+Camper,448,Clothing and Clothing Accessories Stores
+Camping World,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Canada Goose,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Cardsmart,453,Miscellaneous Store Retailers
+Carhartt,448,Clothing and Clothing Accessories Stores
+Carrabba's Italian Grill,722,Food Services and Drinking Places
+Carter's,448,Clothing and Clothing Accessories Stores
+Cartier,448,Clothing and Clothing Accessories Stores
+Cartridge World,453,Miscellaneous Store Retailers
+Carvel,722,Food Services and Drinking Places
+Catherines,448,Clothing and Clothing Accessories Stores
+Central Rock Gym,713,"Amusement, Gambling, and Recreation Industries"
+Century 21 Department Stores,448,Clothing and Clothing Accessories Stores
+Cha Cha Matcha,722,Food Services and Drinking Places
+Champion,448,Clothing and Clothing Accessories Stores
+Champs Sports,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Chanel,448,Clothing and Clothing Accessories Stores
+Charles Tyrwhitt,448,Clothing and Clothing Accessories Stores
+Charley's,722,Food Services and Drinking Places
+Charlotte Russe,448,Clothing and Clothing Accessories Stores
+Charlotte Tilbury,446,Health and Personal Care Stores
+Checkers Drive-In Restaurants,722,Food Services and Drinking Places
+Cheeburger Cheeburger,722,Food Services and Drinking Places
+Chick-fil-A,722,Food Services and Drinking Places
+Chico's,448,Clothing and Clothing Accessories Stores
+Chico's Off The Rack,448,Clothing and Clothing Accessories Stores
+Chili's Grill & Bar,722,Food Services and Drinking Places
+China House,722,Food Services and Drinking Places
+China King,722,Food Services and Drinking Places
+China Kitchen,722,Food Services and Drinking Places
+Chipotle Mexican Grill,722,Food Services and Drinking Places
+Choice Pet,453,Miscellaneous Store Retailers
+Chopt Creative Salad,722,Food Services and Drinking Places
+Christian Louboutin,448,Clothing and Clothing Accessories Stores
+Christmas Tree Shops,452,General Merchandise Stores
+Chrome Hearts,448,Clothing and Clothing Accessories Stores
+Chuck E. Cheese's,722,Food Services and Drinking Places
+Cinnabon,722,Food Services and Drinking Places
+Circle K,445,Food and Beverage Stores
+Circle K Gas,447,Gasoline Stations
+Citi Trends,452,General Merchandise Stores
+Claire's,448,Clothing and Clothing Accessories Stores
+Clarks,448,Clothing and Clothing Accessories Stores
+Cliff's Local Market,445,Food and Beverage Stores
+Clothes Mentor,453,Miscellaneous Store Retailers
+Club Champion,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Club Monaco,448,Clothing and Clothing Accessories Stores
+Club Pilates,713,"Amusement, Gambling, and Recreation Industries"
+CoCo Fresh Tea & Juice,722,Food Services and Drinking Places
+Coach,448,Clothing and Clothing Accessories Stores
+Cold Stone Creamery,722,Food Services and Drinking Places
+Cole Haan,448,Clothing and Clothing Accessories Stores
+Columbia Sportswear,448,Clothing and Clothing Accessories Stores
+Compare Foods Supermarkets,445,Food and Beverage Stores
+ConocoPhillips,447,Gasoline Stations
+CoreLife Eatery,722,Food Services and Drinking Places
+CorePower Yoga,713,"Amusement, Gambling, and Recreation Industries"
+Cosi,722,Food Services and Drinking Places
+Costco,452,General Merchandise Stores
+Costco Gasoline,447,Gasoline Stations
+Country Fair,447,Gasoline Stations
+Country Kitchen,722,Food Services and Drinking Places
+CountryMax Stores,453,Miscellaneous Store Retailers
+Cracker Barrel,722,Food Services and Drinking Places
+Crocs,448,Clothing and Clothing Accessories Stores
+Crosby's,445,Food and Beverage Stores
+CrossFit,713,"Amusement, Gambling, and Recreation Industries"
+Crossroads Trading,453,Miscellaneous Store Retailers
+Crown Trophy,453,Miscellaneous Store Retailers
+Crunch,713,"Amusement, Gambling, and Recreation Industries"
+Cumberland Farms,447,Gasoline Stations
+Cups Frozen Yogurt,722,Food Services and Drinking Places
+Curves,713,"Amusement, Gambling, and Recreation Industries"
+Cycle Gear,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+CycleBar,713,"Amusement, Gambling, and Recreation Industries"
+D'Agostino,445,Food and Beverage Stores
+DAISO,452,General Merchandise Stores
+DSW (Designer Shoe Warehouse),448,Clothing and Clothing Accessories Stores
+DTR/VILLA,448,Clothing and Clothing Accessories Stores
+Dairy Queen,722,Food Services and Drinking Places
+Dallas BBQ,722,Food Services and Drinking Places
+Dandy Mini Marts,445,Food and Beverage Stores
+Dash's Market,445,Food and Beverage Stores
+Dave & Buster's,722,Food Services and Drinking Places
+David's Bridal,448,Clothing and Clothing Accessories Stores
+DeCicco and Sons,722,Food Services and Drinking Places
+Del Frisco's Grille,722,Food Services and Drinking Places
+DelFrisco's Double Eagle Steakhouse,722,Food Services and Drinking Places
+Denny's,722,Food Services and Drinking Places
+Destination Maternity,448,Clothing and Clothing Accessories Stores
+Destination XL,448,Clothing and Clothing Accessories Stores
+DiBella's Subs,722,Food Services and Drinking Places
+Dick's Sporting Goods,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Dickey's Barbecue Pit,722,Food Services and Drinking Places
+Dig Inn,722,Food Services and Drinking Places
+Dior,448,Clothing and Clothing Accessories Stores
+Disney Store,453,Miscellaneous Store Retailers
+Doc Popcorn,722,Food Services and Drinking Places
+Dog Haus,722,Food Services and Drinking Places
+Dolce & Gabbana,448,Clothing and Clothing Accessories Stores
+Dollar General,452,General Merchandise Stores
+Dollar Tree,452,General Merchandise Stores
+Domino's Pizza,722,Food Services and Drinking Places
+Donut Connection,722,Food Services and Drinking Places
+Dooney and Bourke,448,Clothing and Clothing Accessories Stores
+Dos Toros Taqueria,722,Food Services and Drinking Places
+Dover Saddlery,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Dressbarn,448,Clothing and Clothing Accessories Stores
+Duane Reade by Walgreens,446,Health and Personal Care Stores
+Dunkin',722,Food Services and Drinking Places
+Duty Free Americas,445,Food and Beverage Stores
+Dylan's Candy Bar,445,Food and Beverage Stores
+ESCADA,448,Clothing and Clothing Accessories Stores
+EagleRider,713,"Amusement, Gambling, and Recreation Industries"
+Earl of Sandwich,722,Food Services and Drinking Places
+Eastern Mountain Sports,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Eataly,722,Food Services and Drinking Places
+Eblens,448,Clothing and Clothing Accessories Stores
+Eddie Bauer,448,Clothing and Clothing Accessories Stores
+Edible Arrangements,453,Miscellaneous Store Retailers
+Eileen Fisher,448,Clothing and Clothing Accessories Stores
+Einstein Brothers,722,Food Services and Drinking Places
+Elevation Burger,722,Food Services and Drinking Places
+Elixir Juice Bar,722,Food Services and Drinking Places
+Emack & Bolio's Ice Cream,722,Food Services and Drinking Places
+Empire Eatery,447,Gasoline Stations
+Epicierie Boulud,722,Food Services and Drinking Places
+Equinox Fitness Clubs,713,"Amusement, Gambling, and Recreation Industries"
+Ermenegildo Zenga,448,Clothing and Clothing Accessories Stores
+Everlane,452,General Merchandise Stores
+Everything but Water,448,Clothing and Clothing Accessories Stores
+Exhale,812,Personal and Laundry Services
+Express,448,Clothing and Clothing Accessories Stores
+Express Factory Outlet,448,Clothing and Clothing Accessories Stores
+Exxon Mobil,447,Gasoline Stations
+F45 Training,713,"Amusement, Gambling, and Recreation Industries"
+Fairway Market,445,Food and Beverage Stores
+Family Dollar Stores,452,General Merchandise Stores
+Family Video,532,Rental and Leasing Services
+Famous Dave's,722,Food Services and Drinking Places
+Famous Footwear,448,Clothing and Clothing Accessories Stores
+Fastrac,447,Gasoline Stations
+Feel Rite Fresh Market,446,Health and Personal Care Stores
+Fendi,448,Clothing and Clothing Accessories Stores
+Ferragamo,448,Clothing and Clothing Accessories Stores
+Field & Stream,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Fig and Olive,722,Food Services and Drinking Places
+Fine Fare Supermarkets,445,Food and Beverage Stores
+Firehouse Subs,722,Food Services and Drinking Places
+Fitness 19,713,"Amusement, Gambling, and Recreation Industries"
+Fitness Factory Health Club,713,"Amusement, Gambling, and Recreation Industries"
+Five Below,452,General Merchandise Stores
+Five Guys,722,Food Services and Drinking Places
+Fjall Raven,713,"Amusement, Gambling, and Recreation Industries"
+Fleet Feet Sports,448,Clothing and Clothing Accessories Stores
+Flight Trampoline Park,713,"Amusement, Gambling, and Recreation Industries"
+Flywheel,713,"Amusement, Gambling, and Recreation Industries"
+Fogo de Chão,722,Food Services and Drinking Places
+Food Bazaar Supermarket,445,Food and Beverage Stores
+Food Dynasty,445,Food and Beverage Stores
+Food Fair,445,Food and Beverage Stores
+Food Universe Marketplace,445,Food and Beverage Stores
+Foodtown,445,Food and Beverage Stores
+Foot Locker,448,Clothing and Clothing Accessories Stores
+Footaction,448,Clothing and Clothing Accessories Stores
+Forever 21,448,Clothing and Clothing Accessories Stores
+Forman Mills,448,Clothing and Clothing Accessories Stores
+Fossil,448,Clothing and Clothing Accessories Stores
+Four Brothers Pizza Inn,722,Food Services and Drinking Places
+Fox's Pizza Den,722,Food Services and Drinking Places
+Francos Pizza,722,Food Services and Drinking Places
+Frank Pepe Pizzeria,722,Food Services and Drinking Places
+Fred Astaire Dance Studios,713,"Amusement, Gambling, and Recreation Industries"
+Free People,448,Clothing and Clothing Accessories Stores
+Fresh&co.,445,Food and Beverage Stores
+Friendly's,722,Food Services and Drinking Places
+Fuku,722,Food Services and Drinking Places
+G-Star RAW,448,Clothing and Clothing Accessories Stores
+GALLS,448,Clothing and Clothing Accessories Stores
+GNC (General Nutrition Centers),446,Health and Personal Care Stores
+GRK Fresh,722,Food Services and Drinking Places
+GUESS Factory,448,Clothing and Clothing Accessories Stores
+Gabe's,452,General Merchandise Stores
+GameStop,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Gander Outdoors,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Gap,448,Clothing and Clothing Accessories Stores
+Gertrude Hawk Chocolates,445,Food and Beverage Stores
+Get Air,713,"Amusement, Gambling, and Recreation Industries"
+Giunta's Meat Farms,445,Food and Beverage Stores
+Go! Go! Curry! America,722,Food Services and Drinking Places
+Gold's Gym,713,"Amusement, Gambling, and Recreation Industries"
+Golden China,722,Food Services and Drinking Places
+Golden Corral,722,Food Services and Drinking Places
+Golden Krust Caribbean Bakery and Grill,722,Food Services and Drinking Places
+Golf Galaxy,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+GolfTec,713,"Amusement, Gambling, and Recreation Industries"
+Gong Cha,722,Food Services and Drinking Places
+Goodwill Industries,453,Miscellaneous Store Retailers
+Gordmans,452,General Merchandise Stores
+Gordon Food Service Store,445,Food and Beverage Stores
+Great American Cookies,445,Food and Beverage Stores
+Greatwall Supermarket (GW),445,Food and Beverage Stores
+Green Cactus Grill,722,Food Services and Drinking Places
+Green's Natural Foods,445,Food and Beverage Stores
+Gregory's Coffee,722,Food Services and Drinking Places
+Grimaldi's,722,Food Services and Drinking Places
+Gristedes,445,Food and Beverage Stores
+Ground Round,722,Food Services and Drinking Places
+Gucci,448,Clothing and Clothing Accessories Stores
+Guitar Center,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Gulf Oil,447,Gasoline Stations
+Gyu-Kaku,722,Food Services and Drinking Places
+H Mart,445,Food and Beverage Stores
+H&M (Hennes & Mauritz),448,Clothing and Clothing Accessories Stores
+Haagen Dazs,722,Food Services and Drinking Places
+Habitat for Humanity ReStore,453,Miscellaneous Store Retailers
+Haggar,448,Clothing and Clothing Accessories Stores
+Hallmark Cards,453,Miscellaneous Store Retailers
+Handy Pantry,445,Food and Beverage Stores
+Hanesbrands,448,Clothing and Clothing Accessories Stores
+Hannaford Pharmacy,446,Health and Personal Care Stores
+Hannaford Supermarkets,445,Food and Beverage Stores
+Hannoush Jewelers,448,Clothing and Clothing Accessories Stores
+Hard Rock Cafe,722,Food Services and Drinking Places
+Harmon Face Values,446,Health and Personal Care Stores
+Harry Winston,448,Clothing and Clothing Accessories Stores
+Health Mart,446,Health and Personal Care Stores
+Healthtrax Fitness & Wellness,713,"Amusement, Gambling, and Recreation Industries"
+Hearing Life,446,Health and Personal Care Stores
+Hermès,452,General Merchandise Stores
+Hibbett Sports,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Hillstone Restaurant Group,722,Food Services and Drinking Places
+Hobby Lobby Stores,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Hollister,448,Clothing and Clothing Accessories Stores
+Hooters,722,Food Services and Drinking Places
+Hot Topic,448,Clothing and Clothing Accessories Stores
+Houlihan's Restaurants,722,Food Services and Drinking Places
+Hugo Boss,448,Clothing and Clothing Accessories Stores
+Hurricane Grill & Wings,722,Food Services and Drinking Places
+IGA,445,Food and Beverage Stores
+IHOP,722,Food Services and Drinking Places
+Indochino,448,Clothing and Clothing Accessories Stores
+Intermix,448,Clothing and Clothing Accessories Stores
+Ippudo,722,Food Services and Drinking Places
+Irving Oil,447,Gasoline Stations
+It'sugar,445,Food and Beverage Stores
+J Mclaughlin,448,Clothing and Clothing Accessories Stores
+J.Crew,448,Clothing and Clothing Accessories Stores
+J.Jill,448,Clothing and Clothing Accessories Stores
+JCPenney,452,General Merchandise Stores
+Jacadi,448,Clothing and Clothing Accessories Stores
+Jamba,722,Food Services and Drinking Places
+James Perse,448,Clothing and Clothing Accessories Stores
+Janie and Jack,448,Clothing and Clothing Accessories Stores
+Jared The Galleria of Jewelry,448,Clothing and Clothing Accessories Stores
+Jersey Mike's,722,Food Services and Drinking Places
+Jet's Pizza,722,Food Services and Drinking Places
+Jimmy Jazz,448,Clothing and Clothing Accessories Stores
+Jimmy John's,722,Food Services and Drinking Places
+Jimmy's Egg,722,Food Services and Drinking Places
+Jo-Ann Fabric and Craft Stores,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Jockey,448,Clothing and Clothing Accessories Stores
+Joe & The Juice,722,Food Services and Drinking Places
+Joe Coffee,722,Food Services and Drinking Places
+Johnny Rockets,722,Food Services and Drinking Places
+Johnson Fitness & Wellness,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Johnston & Murphy,448,Clothing and Clothing Accessories Stores
+Jolley Stores,445,Food and Beverage Stores
+Jollibee,722,Food Services and Drinking Places
+Jos. A. Bank Clothiers,448,Clothing and Clothing Accessories Stores
+Journeys,448,Clothing and Clothing Accessories Stores
+Jreck Subs,722,Food Services and Drinking Places
+Juice Generation,722,Food Services and Drinking Places
+Juice Press,722,Food Services and Drinking Places
+Jumpstreet,713,"Amusement, Gambling, and Recreation Industries"
+Junior's,722,Food Services and Drinking Places
+Just Salad,722,Food Services and Drinking Places
+Just-A-Buck,445,Food and Beverage Stores
+K & G Fashion Superstore,448,Clothing and Clothing Accessories Stores
+KFC,722,Food Services and Drinking Places
+Kahala Coffee Traders,722,Food Services and Drinking Places
+Kate Spade,448,Clothing and Clothing Accessories Stores
+Kay Jewelers,448,Clothing and Clothing Accessories Stores
+Key Food,445,Food and Beverage Stores
+Kid to Kid,453,Miscellaneous Store Retailers
+Kids Foot Locker,448,Clothing and Clothing Accessories Stores
+King Kullen Grocery Co.,445,Food and Beverage Stores
+Kings Food Markets,445,Food and Beverage Stores
+Kinney Drugs,446,Health and Personal Care Stores
+Kirkland's,453,Miscellaneous Store Retailers
+Kmart,452,General Merchandise Stores
+Kmart Pharmacy,446,Health and Personal Care Stores
+Kohl's,452,General Merchandise Stores
+Krispy Kreme Doughnuts,722,Food Services and Drinking Places
+Krispy Krunchy Chicken,722,Food Services and Drinking Places
+Kung Fu Tea,722,Food Services and Drinking Places
+Kwik Fill,447,Gasoline Stations
+L.L.Bean,448,Clothing and Clothing Accessories Stores
+LA Fitness,713,"Amusement, Gambling, and Recreation Industries"
+LEGO,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+LIDS,448,Clothing and Clothing Accessories Stores
+LOFT,448,Clothing and Clothing Accessories Stores
+LOFT Outlet,448,Clothing and Clothing Accessories Stores
+LUKOIL,447,Gasoline Stations
+LUSH,446,Health and Personal Care Stores
+La Bella Marketplace,445,Food and Beverage Stores
+La Colombe,722,Food Services and Drinking Places
+La Rosa Chicken & Grill,722,Food Services and Drinking Places
+Label Shopper,448,Clothing and Clothing Accessories Stores
+Lacoste,448,Clothing and Clothing Accessories Stores
+Lacrosse Unlimited,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Laderach,445,Food and Beverage Stores
+Lakeshore Learning Materials,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Land's End,448,Clothing and Clothing Accessories Stores
+Lane Bryant,448,Clothing and Clothing Accessories Stores
+Lasikplus,446,Health and Personal Care Stores
+Launch Trampoline Park,713,"Amusement, Gambling, and Recreation Industries"
+Le Pain Quotidien,722,Food Services and Drinking Places
+Learning Express Toys,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+LensCrafters,446,Health and Personal Care Stores
+Lenwich,722,Food Services and Drinking Places
+Leslie's Swimming Pool Supplies,453,Miscellaneous Store Retailers
+Levi Strauss & Co.,448,Clothing and Clothing Accessories Stores
+Lidl,445,Food and Beverage Stores
+Lifetime Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Lindt,445,Food and Beverage Stores
+Little Caesars,722,Food Services and Drinking Places
+Long John Silver's,722,Food Services and Drinking Places
+LongHorn Steakhouse,722,Food Services and Drinking Places
+Lord and Taylor,452,General Merchandise Stores
+Loro Piana,448,Clothing and Clothing Accessories Stores
+Lou & Grey,452,General Merchandise Stores
+Louis Vuitton International,448,Clothing and Clothing Accessories Stores
+Louisiana Fried Chicken,722,Food Services and Drinking Places
+Love's Travel Stops and Country Stores,447,Gasoline Stations
+Lucille Roberts,713,"Amusement, Gambling, and Recreation Industries"
+Lucky Brand,448,Clothing and Clothing Accessories Stores
+Lucky Strike Entertainment,713,"Amusement, Gambling, and Recreation Industries"
+Luke's Lobster,722,Food Services and Drinking Places
+M&M's Store,445,Food and Beverage Stores
+MAC Cosmetics,446,Health and Personal Care Stores
+MJM Shoes,448,Clothing and Clothing Accessories Stores
+MOOYAH,722,Food Services and Drinking Places
+Macaroni Grill,722,Food Services and Drinking Places
+Macy's,452,General Merchandise Stores
+Macy's Backstage,452,General Merchandise Stores
+Madewell,448,Clothing and Clothing Accessories Stores
+Maggiano's Little Italy,722,Food Services and Drinking Places
+Maison Kayser,722,Food Services and Drinking Places
+Mamoun's Falafel,722,Food Services and Drinking Places
+Manchu Wok,722,Food Services and Drinking Places
+Mandee,448,Clothing and Clothing Accessories Stores
+Maplefields,445,Food and Beverage Stores
+Marathon,447,Gasoline Stations
+Marie Blachère,722,Food Services and Drinking Places
+Mark's Pizzeria,722,Food Services and Drinking Places
+Market Fresh,445,Food and Beverage Stores
+Marquee Cinemas,512,Motion Picture and Video Industries
+Marshalls,448,Clothing and Clothing Accessories Stores
+Mayweather Boxing + Fitness,713,"Amusement, Gambling, and Recreation Industries"
+McDonald's,722,Food Services and Drinking Places
+Melt Shop,722,Food Services and Drinking Places
+Menchie's,722,Food Services and Drinking Places
+Merle Norman Cosmetics,446,Health and Personal Care Stores
+Met Foodmarkets,445,Food and Beverage Stores
+Michael Kors,448,Clothing and Clothing Accessories Stores
+Michaels Stores,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Midtown Athletic Clubs,713,"Amusement, Gambling, and Recreation Industries"
+Mighty Quinns BBQ,722,Food Services and Drinking Places
+Mighty Taco,722,Food Services and Drinking Places
+Milk Bar,722,Food Services and Drinking Places
+Miller's Ale House,722,Food Services and Drinking Places
+Miracle-Ear,446,Health and Personal Care Stores
+Mobil,447,Gasoline Stations
+Modell's Sporting Goods,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Modo Yoga,713,"Amusement, Gambling, and Recreation Industries"
+Moe's Southwest Grill,722,Food Services and Drinking Places
+Moncler,448,Clothing and Clothing Accessories Stores
+Monster Mini Golf,713,"Amusement, Gambling, and Recreation Industries"
+Montblanc,448,Clothing and Clothing Accessories Stores
+Morgenthal Frederics,446,Health and Personal Care Stores
+Morton Williams Supermarkets,445,Food and Beverage Stores
+Morton's The Steakhouse,722,Food Services and Drinking Places
+Movie Tavern by Marcus,512,Motion Picture and Video Industries
+Mr Chow,722,Food Services and Drinking Places
+Muji,448,Clothing and Clothing Accessories Stores
+Mulberry,448,Clothing and Clothing Accessories Stores
+Muscle Maker Grill,722,Food Services and Drinking Places
+Music & Arts,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+My Gym Children's Fitness Centers,713,"Amusement, Gambling, and Recreation Industries"
+Nathan's Famous,722,Food Services and Drinking Places
+Nautica,448,Clothing and Clothing Accessories Stores
+Navy Exchange,452,General Merchandise Stores
+Neiman Marcus,452,General Merchandise Stores
+Nespresso,445,Food and Beverage Stores
+Net Cost Market,445,Food and Beverage Stores
+Neuhaus,445,Food and Beverage Stores
+New Balance,448,Clothing and Clothing Accessories Stores
+New York & Company,448,Clothing and Clothing Accessories Stores
+New York Health & Racquet Club,713,"Amusement, Gambling, and Recreation Industries"
+New York Pilates,713,"Amusement, Gambling, and Recreation Industries"
+New York Sports Club,713,"Amusement, Gambling, and Recreation Industries"
+Next Level Burgers,722,Food Services and Drinking Places
+Nike,448,Clothing and Clothing Accessories Stores
+Noodles & Company,722,Food Services and Drinking Places
+Nordstrom,448,Clothing and Clothing Accessories Stores
+Nordstrom Local,448,Clothing and Clothing Accessories Stores
+Nordstrom Rack,448,Clothing and Clothing Accessories Stores
+North Shore Farms,445,Food and Beverage Stores
+NrGize Lifestyle Cafe,722,Food Services and Drinking Places
+Obicá,722,Food Services and Drinking Places
+Ocean Prime,722,Food Services and Drinking Places
+Ocean State Job Lot,452,General Merchandise Stores
+OddFellows Ice Cream Co,722,Food Services and Drinking Places
+Office Depot,453,Miscellaneous Store Retailers
+OfficeMax,453,Miscellaneous Store Retailers
+Oh Nuts,445,Food and Beverage Stores
+Old Navy,448,Clothing and Clothing Accessories Stores
+Olive Garden,722,Food Services and Drinking Places
+Oliver Peoples,446,Health and Personal Care Stores
+Ollie's Bargain Outlet,452,General Merchandise Stores
+Olympia Sports,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+On The Border,722,Food Services and Drinking Places
+Once Upon a Child,453,Miscellaneous Store Retailers
+Orangetheory Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Orvis,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+OshKosh B'gosh,448,Clothing and Clothing Accessories Stores
+Out of the Closet,453,Miscellaneous Store Retailers
+Outback Steakhouse,722,Food Services and Drinking Places
+P.F. Chang's China Bistro,722,Food Services and Drinking Places
+PGA TOUR Superstore,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+PacSun,448,Clothing and Clothing Accessories Stores
+Panda Express,722,Food Services and Drinking Places
+Pandora,448,Clothing and Clothing Accessories Stores
+Panera Bread,722,Food Services and Drinking Places
+Papa John's,722,Food Services and Drinking Places
+Paper Source,453,Miscellaneous Store Retailers
+Papyrus,453,Miscellaneous Store Retailers
+Paris Baguette,722,Food Services and Drinking Places
+Party City,453,Miscellaneous Store Retailers
+Pastosa Ravioli,445,Food and Beverage Stores
+Pat's Marketplace,445,Food and Beverage Stores
+Patagonia,448,Clothing and Clothing Accessories Stores
+Patel Brothers,445,Food and Beverage Stores
+Peachwave Yogurt,722,Food Services and Drinking Places
+Pearle Vision,446,Health and Personal Care Stores
+Peck's Market,445,Food and Beverage Stores
+Peet's Coffee and Tea,722,Food Services and Drinking Places
+Penseys,453,Miscellaneous Store Retailers
+Perfumania,446,Health and Personal Care Stores
+Perkins Restaurant & Bakery,722,Food Services and Drinking Places
+Pet Pantry Warehouse,453,Miscellaneous Store Retailers
+Pet Supplies Plus,453,Miscellaneous Store Retailers
+PetSmart,453,Miscellaneous Store Retailers
+Petco,453,Miscellaneous Store Retailers
+Pets Warehouse,453,Miscellaneous Store Retailers
+Phillips 66,447,Gasoline Stations
+Philly Pretzel Factory,445,Food and Beverage Stores
+Physique57,713,"Amusement, Gambling, and Recreation Industries"
+Pilot Flying J,447,Gasoline Stations
+Pinkberry,722,Food Services and Drinking Places
+Pinot's Palette,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Pioneer Supermarkets,445,Food and Beverage Stores
+Pit Stop,447,Gasoline Stations
+Pita Pit,722,Food Services and Drinking Places
+Pizza Hut,722,Food Services and Drinking Places
+Planet Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Planet Smoothie,722,Food Services and Drinking Places
+Planet Wings,722,Food Services and Drinking Places
+Plato's Closet,453,Miscellaneous Store Retailers
+Play It Again Sports,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Playa Bowls,722,Food Services and Drinking Places
+Poke Bar,722,Food Services and Drinking Places
+Poke Works,722,Food Services and Drinking Places
+Pollo Campero,722,Food Services and Drinking Places
+Pontillo's Pizzeria,722,Food Services and Drinking Places
+Pop Physique,713,"Amusement, Gambling, and Recreation Industries"
+Popbar,722,Food Services and Drinking Places
+Popeyes Louisiana Kitchen,722,Food Services and Drinking Places
+Potbelly Sandwich Works,722,Food Services and Drinking Places
+Powerhouse Gym,713,"Amusement, Gambling, and Recreation Industries"
+Prada,448,Clothing and Clothing Accessories Stores
+Pressed Juicery,722,Food Services and Drinking Places
+Pret A Manger,722,Food Services and Drinking Places
+Price Chopper,445,Food and Beverage Stores
+PriceRite,445,Food and Beverage Stores
+Proper Food,722,Food Services and Drinking Places
+Pure Barre,713,"Amusement, Gambling, and Recreation Industries"
+Pure Hockey,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Qdoba Mexican Grill,722,Food Services and Drinking Places
+QuickChek,447,Gasoline Stations
+REI,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Ra Sushi,722,Food Services and Drinking Places
+Rag & Bone,448,Clothing and Clothing Accessories Stores
+Rainbow Shops,448,Clothing and Clothing Accessories Stores
+Rajbhog Food,722,Food Services and Drinking Places
+Ralph Lauren,448,Clothing and Clothing Accessories Stores
+Ralph's Italian ices & Ice Cream,722,Food Services and Drinking Places
+Red Lobster,722,Food Services and Drinking Places
+Red Mango,722,Food Services and Drinking Places
+Red Robin Gourmet Burgers,722,Food Services and Drinking Places
+Red Wing Shoes,448,Clothing and Clothing Accessories Stores
+Reebok,448,Clothing and Clothing Accessories Stores
+Regal Entertainment Group,512,Motion Picture and Video Industries
+Retro Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Ripley's Entertainment Inc,713,"Amusement, Gambling, and Recreation Industries"
+Rita's Italian Ice,722,Food Services and Drinking Places
+Rite Aid,446,Health and Personal Care Stores
+Rite Aid Pharmacy,446,Health and Personal Care Stores
+Rocket Fizz,445,Food and Beverage Stores
+Rockin' Jump,713,"Amusement, Gambling, and Recreation Industries"
+Rosa Mexicano,722,Food Services and Drinking Places
+Roti Mediterranean Grill,722,Food Services and Drinking Places
+Round One Entertainment,713,"Amusement, Gambling, and Recreation Industries"
+Row House,713,"Amusement, Gambling, and Recreation Industries"
+Roy Rogers,722,Food Services and Drinking Places
+Royal Beauty Supply,446,Health and Personal Care Stores
+Ruby Tuesday,722,Food Services and Drinking Places
+Rumble,713,"Amusement, Gambling, and Recreation Industries"
+Ruth's Chris Steak House,722,Food Services and Drinking Places
+SAS San Antonio Shoemakers,448,Clothing and Clothing Accessories Stores
+SHOP 'n SAVE Supermarkets,445,Food and Beverage Stores
+SLT,713,"Amusement, Gambling, and Recreation Industries"
+SNIPES,448,Clothing and Clothing Accessories Stores
+SPENGA,713,"Amusement, Gambling, and Recreation Industries"
+Sabon,446,Health and Personal Care Stores
+Saks Fifth Avenue,452,General Merchandise Stores
+Saks Off Fifth,452,General Merchandise Stores
+Sally Beauty Supply,446,Health and Personal Care Stores
+Salsa Fresca Mexican Grill,722,Food Services and Drinking Places
+Salsarita's Fresh Cantina,722,Food Services and Drinking Places
+Salvatore's,722,Food Services and Drinking Places
+Sam Ash Music,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Sam Edelman,448,Clothing and Clothing Accessories Stores
+Sam's Club,452,General Merchandise Stores
+Sam's Club Fuel Center,447,Gasoline Stations
+Samsonite,448,Clothing and Clothing Accessories Stores
+Saravana Bhavan,722,Food Services and Drinking Places
+Sarku Japan,722,Food Services and Drinking Places
+SavOn,445,Food and Beverage Stores
+Save-A-Lot,445,Food and Beverage Stores
+Savers Thrift Stores,453,Miscellaneous Store Retailers
+Sbarro,722,Food Services and Drinking Places
+Schnippers,722,Food Services and Drinking Places
+Scrubs & Beyond,448,Clothing and Clothing Accessories Stores
+Sears,452,General Merchandise Stores
+Sears Home Services,452,General Merchandise Stores
+Sears Hometown Store,452,General Merchandise Stores
+Seasons 52,722,Food Services and Drinking Places
+Sephora,446,Health and Personal Care Stores
+Shake Shack,722,Food Services and Drinking Places
+Shell Oil,447,Gasoline Stations
+Shoe Carnival,448,Clothing and Clothing Accessories Stores
+Shoe Dept Encore,448,Clothing and Clothing Accessories Stores
+ShopRite,445,Food and Beverage Stores
+ShopRite Pharmacy,446,Health and Personal Care Stores
+Shoppers World,448,Clothing and Clothing Accessories Stores
+Showcase Cinemas,512,Motion Picture and Video Industries
+Sierra,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Sinclair Oil,447,Gasoline Stations
+Singas Famous Pizza,722,Food Services and Drinking Places
+Six Flags,713,"Amusement, Gambling, and Recreation Industries"
+Skechers,448,Clothing and Clothing Accessories Stores
+Sky Zone,713,"Amusement, Gambling, and Recreation Industries"
+SmartStyle Family Hair Salons,812,Personal and Laundry Services
+Smashburger,722,Food Services and Drinking Places
+Smith & Wollensky,722,Food Services and Drinking Places
+Smith's Food & Drug Stores,445,Food and Beverage Stores
+Smokers Choice,453,Miscellaneous Store Retailers
+Smokey Bones,722,Food Services and Drinking Places
+Smoothie King,722,Food Services and Drinking Places
+Snap Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Snip-its,812,Personal and Laundry Services
+SoBol Acai Bowls & Beyond,722,Food Services and Drinking Places
+Soccer Post,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Solstice Sunglasses,453,Miscellaneous Store Retailers
+Soma Intimates,448,Clothing and Clothing Accessories Stores
+Sonic,722,Food Services and Drinking Places
+SoulCycle,713,"Amusement, Gambling, and Recreation Industries"
+Speedway,447,Gasoline Stations
+Spencer's,453,Miscellaneous Store Retailers
+Sportsman's Warehouse,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Sprinkles,722,Food Services and Drinking Places
+Staples,453,Miscellaneous Store Retailers
+Starbucks,722,Food Services and Drinking Places
+Stein Mart,452,General Merchandise Stores
+Sterling Optical,446,Health and Personal Care Stores
+Steve Madden,448,Clothing and Clothing Accessories Stores
+Stew Leonard's,445,Food and Beverage Stores
+Stewart's Shops,445,Food and Beverage Stores
+Stop & Shop,445,Food and Beverage Stores
+Stop & Shop Pharmacy,446,Health and Personal Care Stores
+Street Corner,447,Gasoline Stations
+StretchLab,713,"Amusement, Gambling, and Recreation Industries"
+Stuart Weitzman,448,Clothing and Clothing Accessories Stores
+Subway,722,Food Services and Drinking Places
+Sugarfina,445,Food and Beverage Stores
+Sugarfish,722,Food Services and Drinking Places
+SuitSupply,448,Clothing and Clothing Accessories Stores
+Sun & Ski Sports,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Sunglass Hut,446,Health and Personal Care Stores
+Sunoco,447,Gasoline Stations
+Super Shoes,448,Clothing and Clothing Accessories Stores
+Superdry,448,Clothing and Clothing Accessories Stores
+Superfresh,445,Food and Beverage Stores
+Surf City Squeeze,722,Food Services and Drinking Places
+Swatch,448,Clothing and Clothing Accessories Stores
+Sweet Chick,722,Food Services and Drinking Places
+Sweet Frog,722,Food Services and Drinking Places
+T.J. Maxx,452,General Merchandise Stores
+TCBY,722,Food Services and Drinking Places
+TGI Fridays,722,Food Services and Drinking Places
+THE MAX Challenge,713,"Amusement, Gambling, and Recreation Industries"
+TITLE Boxing Club,713,"Amusement, Gambling, and Recreation Industries"
+Taco Bell,722,Food Services and Drinking Places
+Talbots,448,Clothing and Clothing Accessories Stores
+Target,452,General Merchandise Stores
+Tasti DLite,722,Food Services and Drinking Places
+Texas Chicken and Burgers,722,Food Services and Drinking Places
+Texas Roadhouse,722,Food Services and Drinking Places
+Texas de Brazil,722,Food Services and Drinking Places
+The Ainsworth,722,Food Services and Drinking Places
+The Art of Shaving,453,Miscellaneous Store Retailers
+The Bar Method,713,"Amusement, Gambling, and Recreation Industries"
+The Body Shop,446,Health and Personal Care Stores
+The Book Rack,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+The Burger Joint,722,Food Services and Drinking Places
+The Capital Grille,722,Food Services and Drinking Places
+The Cheesecake Factory,722,Food Services and Drinking Places
+The Children's Place,448,Clothing and Clothing Accessories Stores
+The Counter,722,Food Services and Drinking Places
+The Exchange,448,Clothing and Clothing Accessories Stores
+The Food Emporium,445,Food and Beverage Stores
+The Fresh Market,445,Food and Beverage Stores
+The Great American Bagel,722,Food Services and Drinking Places
+The Green Turtle,722,Food Services and Drinking Places
+The Halal Guys,722,Food Services and Drinking Places
+The Honey Baked Ham Co.,722,Food Services and Drinking Places
+The Hummus & Pita Co,722,Food Services and Drinking Places
+The Juice Shop Kitchen & Juicery,722,Food Services and Drinking Places
+The Little Beet,722,Food Services and Drinking Places
+The Little Gym,713,"Amusement, Gambling, and Recreation Industries"
+The Medicine Shoppe,446,Health and Personal Care Stores
+The Melting Pot Restaurant,722,Food Services and Drinking Places
+The Men's Wearhouse,448,Clothing and Clothing Accessories Stores
+The North Face,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+The Original Pancake House,722,Food Services and Drinking Places
+The Palm Restaurant,722,Food Services and Drinking Places
+The Paper Store,453,Miscellaneous Store Retailers
+The RealReal,448,Clothing and Clothing Accessories Stores
+The Salvation Army,453,Miscellaneous Store Retailers
+The Vitamin Shoppe,446,Health and Personal Care Stores
+Theory,448,Clothing and Clothing Accessories Stores
+Things Remembered,453,Miscellaneous Store Retailers
+Tiffany & Co.,448,Clothing and Clothing Accessories Stores
+Tim Hortons,722,Food Services and Drinking Places
+Tim Howan,722,Food Services and Drinking Places
+Timberland,448,Clothing and Clothing Accessories Stores
+Tod's,448,Clothing and Clothing Accessories Stores
+Tommy Hilfiger,448,Clothing and Clothing Accessories Stores
+Tops Friendly Markets,445,Food and Beverage Stores
+Tops Pharmacy,446,Health and Personal Care Stores
+Torrid,448,Clothing and Clothing Accessories Stores
+Tory Burch,448,Clothing and Clothing Accessories Stores
+Total Wine & More,445,Food and Beverage Stores
+Trade Fair Supermarket,445,Food and Beverage Stores
+Trader Joe's,445,Food and Beverage Stores
+TravelCenters of America,447,Gasoline Stations
+Tropical Smoothie Café,722,Food Services and Drinking Places
+Tuesday Morning,452,General Merchandise Stores
+Tumi,448,Clothing and Clothing Accessories Stores
+Tutti Frutti,722,Food Services and Drinking Places
+Tuxedo by Sarno,448,Clothing and Clothing Accessories Stores
+UFC Gym,713,"Amusement, Gambling, and Recreation Industries"
+UGG,448,Clothing and Clothing Accessories Stores
+ULTA Beauty,446,Health and Personal Care Stores
+Umami Burger,722,Food Services and Drinking Places
+Uncle Giuseppe's,445,Food and Beverage Stores
+Uncle Louie G,722,Food Services and Drinking Places
+Under Armour,448,Clothing and Clothing Accessories Stores
+Uniqlo,448,Clothing and Clothing Accessories Stores
+United Taekwondo Center,713,"Amusement, Gambling, and Recreation Industries"
+Unleashed by Petco,453,Miscellaneous Store Retailers
+Uno Chicago Grill,722,Food Services and Drinking Places
+Urban Air Trampoline Park,713,"Amusement, Gambling, and Recreation Industries"
+Urban Outfitters,448,Clothing and Clothing Accessories Stores
+VIM,448,Clothing and Clothing Accessories Stores
+VP Racing Fuels,447,Gasoline Stations
+Valentino,448,Clothing and Clothing Accessories Stores
+Valero Energy,447,Gasoline Stations
+Value City Furniture,452,General Merchandise Stores
+Van Cleef & Arpels,448,Clothing and Clothing Accessories Stores
+Van Heusen,448,Clothing and Clothing Accessories Stores
+Van Leeuwen Artisan Ice Cream,722,Food Services and Drinking Places
+Vans,448,Clothing and Clothing Accessories Stores
+Vapiano,722,Food Services and Drinking Places
+Vera Bradley,448,Clothing and Clothing Accessories Stores
+Versace,448,Clothing and Clothing Accessories Stores
+Versona,448,Clothing and Clothing Accessories Stores
+Victoria's Secret,448,Clothing and Clothing Accessories Stores
+Vilebrequin,448,Clothing and Clothing Accessories Stores
+Villa Italian Kitchen,722,Food Services and Drinking Places
+Vince.,448,Clothing and Clothing Accessories Stores
+Vitamin World,446,Health and Personal Care Stores
+Vivi Bubble Tea,722,Food Services and Drinking Places
+Wagamama,722,Food Services and Drinking Places
+Walgreens,446,Health and Personal Care Stores
+Walgreens Pharmacy,446,Health and Personal Care Stores
+Walmart,452,General Merchandise Stores
+Walmart Pharmacy,446,Health and Personal Care Stores
+Warby Parker,446,Health and Personal Care Stores
+Warhammer,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Wasabi,722,Food Services and Drinking Places
+Wayback Burgers,722,Food Services and Drinking Places
+Wegmans Food Markets,445,Food and Beverage Stores
+Weis Markets,445,Food and Beverage Stores
+Wendy's,722,Food Services and Drinking Places
+Western Beef,445,Food and Beverage Stores
+Westville,722,Food Services and Drinking Places
+Wetzel's Pretzels,722,Food Services and Drinking Places
+White Castle,722,Food Services and Drinking Places
+White House Black Market,448,Clothing and Clothing Accessories Stores
+Whole Foods Market,445,Food and Beverage Stores
+Wichcraft,722,Food Services and Drinking Places
+Wild Birds Unlimited,453,Miscellaneous Store Retailers
+Wild by Nature,445,Food and Beverage Stores
+Windsor,448,Clothing and Clothing Accessories Stores
+Wing Zone,722,Food Services and Drinking Places
+Wings Over,722,Food Services and Drinking Places
+Wingstop,722,Food Services and Drinking Places
+Wolford,448,Clothing and Clothing Accessories Stores
+Woof Gang Bakery & Grooming,453,Miscellaneous Store Retailers
+Work 'N Gear,448,Clothing and Clothing Accessories Stores
+World Gym,713,"Amusement, Gambling, and Recreation Industries"
+Wundabar Pilates,713,"Amusement, Gambling, and Recreation Industries"
+XSport Fitness,713,"Amusement, Gambling, and Recreation Industries"
+Xi'an Famous Foods,722,Food Services and Drinking Places
+Xtend Barre,713,"Amusement, Gambling, and Recreation Industries"
+Xtramart,447,Gasoline Stations
+YWCA,713,"Amusement, Gambling, and Recreation Industries"
+Yankee Candle,453,Miscellaneous Store Retailers
+Yogurtini,722,Food Services and Drinking Places
+Zales,448,Clothing and Clothing Accessories Stores
+Zara,448,Clothing and Clothing Accessories Stores
+Zumiez,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores"
+Zurich Cinemas,512,Motion Picture and Video Industries
+[solidcore],713,"Amusement, Gambling, and Recreation Industries"
+barre3,713,"Amusement, Gambling, and Recreation Industries"
+brick house TAVERN + TAP,722,Food Services and Drinking Places
+honeygrow,722,Food Services and Drinking Places
+iFly Indoor Skydiving,713,"Amusement, Gambling, and Recreation Industries"
+iFresh Market,445,Food and Beverage Stores
+iLoveKickboxing,713,"Amusement, Gambling, and Recreation Industries"
+itsu,722,Food Services and Drinking Places
+junzi,722,Food Services and Drinking Places
+lululemon athletica,448,Clothing and Clothing Accessories Stores
+maurices,448,Clothing and Clothing Accessories Stores
+rue21,448,Clothing and Clothing Accessories Stores
+sweetgreen,722,Food Services and Drinking Places
+vineyard vines,448,Clothing and Clothing Accessories Stores

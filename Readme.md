@@ -9,6 +9,9 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `selected_cbg_brand.csv`
 - a matrix of the selected 13,653 CBGs and 924 brands, where the value means number of visits.
 
+`selected_brands.csv`
+- 924 brands selected for this paper.
+
 `brand_cat.csv`
 
 - 1175 brands and their six-digit NAICS code, top_category (4-digit category names), and sub_category (6-digit category names).
@@ -26,6 +29,21 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `cbg_diversity.csv`
 - diversity measures for the selected 13,653 CBGs.
 
+`selected_brand_cat3d.csv`
+- 924 brands and their 3-digit NAICS code and 3-digit category names. 
+
+`availability_matrix.csv`
+- intermediate data for calculating availability measures (a matrix of CBGs and brands, where the value means the number of brands available in the CBG).
+
+`cbg_availability.csv`
+- local availability measures for the selected 13,653 CBGs.
+
+`geo_df.csv`
+- intermediate data for calculating mobility measures (a dataframe of brands, visitor home CBGs, CBG visitor numbers, and sum distance travelled).
+
+`cbg_mobility.csv`
+- mobility measures for the selected 13,653 CBGs.
+
 # Scripts
 
 `utilities.py` functions for data cleaning.
@@ -34,7 +52,7 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis.
 - outputs: Appendix Table A1 and Figure A1
-- aggregated data: selected_cbg_brand.csv, brand_cat.csv, selected_cbg_stats.csv
+- aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv
 
 `02_yelp_data.ipynb` cleans yelp data.
 - aggregated data: yelp_labelled.csv
@@ -48,7 +66,11 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
 - outputs: Figure 4, Table 1 and Table 2.
-- aggregated data: cbg_diversity.csv
+- aggregated data: cbg_diversity.csv, selected_brand_cat3d.csv
 
 `06_availability_mobility.ipynb` calculates the local availability and mobility measures of the selected CBGs.
-- aggregated data: cbg_availability.csv, cbg_mobility.csv
+- aggregated data: availability_matrix.csv, cbg_availability.csv, geo_df.csv, cbg_mobility.csv
+
+`07_diversity_regressions.ipynb` conducts regression analyses predicting consumption diversity using income and confounding variables.
+- outputs: Table 3 and Appendix C.
+
