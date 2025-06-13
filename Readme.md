@@ -8,7 +8,7 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis.
 - outputs: Appendix Table A1 and Figure A1
-- aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv
+- aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv, covisit_edgelist.csv
 
 `02_yelp_data.ipynb` cleans yelp data.
 - aggregated data: yelp_labelled.csv
@@ -30,6 +30,9 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `07_diversity_regressions.ipynb` conducts regression analyses predicting consumption diversity using income and confounding variables.
 - outputs: Table 3 and Appendix C.
 
+`08_node2vec_present.ipynb` uses brand co-visits and node2vec to have a rough test of niche consumption.
+- outputs: Appendix D.
+
 # Data
 
 `selected_categories.csv`
@@ -48,6 +51,9 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `selected_cbg_stats.csv`
 - relevant census data for the selected CBGs: income, income margine of error, proportion of bachelor or higher degree, weighted years of education, median age, proportion of male, proportion of white.
+
+`covisit_edgelist.csv`
+- a edgelist of co-visits between brands, where each row contains a brand, a co-visited brand, and the proportion of visits to the first brand that also visited the second brand in the same month.
 
 `yelp_labelled.csv`
 - 924 brands and their labelled yelp price levels, combining data from Yelp Open Dataset and manual labelling.
