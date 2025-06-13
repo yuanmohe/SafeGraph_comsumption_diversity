@@ -39,7 +39,11 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `10_edu_distribution.ipynb` replicates the brand distribution analysis using education.
 - outputs: Appendix Figure E2 and E3.
 
+`11_edu_diversity.ipynb` replicates the diversity analysis using education.
+- outputs: Appendix Figure E4, Table E1 and Table E2.
 
+`12_interaction_regressions.ipynb` conducts regression analyses predicting consumption diversity using income, education, their interaction, and confounding variables.
+- outputs: Appendix Table E3, E4, E5, and E6; Figure E5.
 
 
 # Data
