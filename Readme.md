@@ -1,5 +1,35 @@
 This repository contains codes and data related to the paper "High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels".
 
+# Scripts
+
+`utilities.py` functions for data cleaning.
+
+`diversity_tools.py` functions for calculating and presenting diversity measures.
+
+`01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis.
+- outputs: Appendix Table A1 and Figure A1
+- aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv
+
+`02_yelp_data.ipynb` cleans yelp data.
+- aggregated data: yelp_labelled.csv
+
+`03_lasso_prediction.ipynb`  uses lasso regression analysis to predict the median household income of the CBGs.
+- outputs: Appendix B.
+
+`04_brand_distribution.ipynb` shows the distribution of brands’ SES for different Yelp price levels and the distribution of brand visitors’ CBG income for some typical brands.
+- outputs: Figure 2 and Figure 3.
+- aggregated data: brand_median.csv
+
+`05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
+- outputs: Figure 4, Table 1 and Table 2.
+- aggregated data: cbg_diversity.csv, selected_brand_cat3d.csv
+
+`06_availability_mobility.ipynb` calculates the local availability and mobility measures of the selected CBGs.
+- aggregated data: availability_matrix.csv, cbg_availability.csv, geo_df.csv, cbg_mobility.csv
+
+`07_diversity_regressions.ipynb` conducts regression analyses predicting consumption diversity using income and confounding variables.
+- outputs: Table 3 and Appendix C.
+
 # Data
 
 `selected_categories.csv`
@@ -43,34 +73,3 @@ This repository contains codes and data related to the paper "High Socioeconomic
 
 `cbg_mobility.csv`
 - mobility measures for the selected 13,653 CBGs.
-
-# Scripts
-
-`utilities.py` functions for data cleaning.
-
-`diversity_tools.py` functions for calculating and presenting diversity measures.
-
-`01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis.
-- outputs: Appendix Table A1 and Figure A1
-- aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv
-
-`02_yelp_data.ipynb` cleans yelp data.
-- aggregated data: yelp_labelled.csv
-
-`03_lasso_prediction.ipynb`  uses lasso regression analysis to predict the median household income of the CBGs.
-- outputs: Appendix B.
-
-`04_brand_distribution.ipynb` shows the distribution of brands’ SES for different Yelp price levels and the distribution of brand visitors’ CBG income for some typical brands.
-- outputs: Figure 2 and Figure 3.
-- aggregated data: brand_median.csv
-
-`05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
-- outputs: Figure 4, Table 1 and Table 2.
-- aggregated data: cbg_diversity.csv, selected_brand_cat3d.csv
-
-`06_availability_mobility.ipynb` calculates the local availability and mobility measures of the selected CBGs.
-- aggregated data: availability_matrix.csv, cbg_availability.csv, geo_df.csv, cbg_mobility.csv
-
-`07_diversity_regressions.ipynb` conducts regression analyses predicting consumption diversity using income and confounding variables.
-- outputs: Table 3 and Appendix C.
-
