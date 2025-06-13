@@ -33,6 +33,15 @@ This repository contains codes and data related to the paper "High Socioeconomic
 `08_node2vec_present.ipynb` uses brand co-visits and node2vec to have a rough test of niche consumption.
 - outputs: Appendix D.
 
+`09_edu_lasso.ipynb` replicates the lasso regression analysis using education (proportion of bachelor's degree or higher) as the outcome variable.
+- outputs: Appendix Figure E1.
+
+`10_edu_distribution.ipynb` replicates the brand distribution analysis using education.
+- outputs: Appendix Figure E2 and E3.
+
+
+
+
 # Data
 
 `selected_categories.csv`
