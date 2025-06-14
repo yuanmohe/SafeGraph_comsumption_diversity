@@ -1,5 +1,7 @@
 This repository contains codes and data related to the paper "High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels".
 
+The data that support the findings of this study are available from [SafeGraph](https://www.safegraph.com/) but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Here we only provide the processed data and codes to reproduce the results in the paper.
+
 # Scripts
 
 `utilities.py` functions for data cleaning.
