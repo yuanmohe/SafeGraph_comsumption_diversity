@@ -1,6 +1,6 @@
-This repository contains codes and data related to the paper "High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels".
+This repository contains code and data related to the paper "High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels".
 
-The data that support the findings of this study are available from [SafeGraph](https://www.safegraph.com/) but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Here we only provide the processed data and codes to reproduce the results in the paper.
+The data that support the findings of this study are available from [SafeGraph](https://www.safegraph.com/). Restrictions apply to the availability of these data, which were used under license for the current study and are not publicly available. Here, we only provide the processed data and codes to reproduce the results in the paper.
 
 # Scripts
 
@@ -12,7 +12,7 @@ The data that support the findings of this study are available from [SafeGraph](
 - outputs: Appendix Table A1 and Figure A1
 - aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv, covisit_edgelist.csv
 
-`02_yelp_data.ipynb` cleans yelp data.
+`02_yelp_data.ipynb` cleans Yelp data.
 - aggregated data: yelp_labelled.csv
 
 `03_lasso_prediction.ipynb`  uses lasso regression analysis to predict the median household income of the CBGs.
@@ -22,7 +22,7 @@ The data that support the findings of this study are available from [SafeGraph](
 - outputs: Figure 2 and Figure 3.
 - aggregated data: brand_median.csv
 
-`05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
+`05_diversity.ipynb` calculates diversity measures and conducts initial analyses.
 - outputs: Figure 4, Table 1 and Table 2.
 - aggregated data: cbg_diversity.csv, selected_brand_cat3d.csv
 
@@ -55,7 +55,7 @@ The data that support the findings of this study are available from [SafeGraph](
 - 28 NAICS four-digit categories we selected for this paper.
 
 `selected_cbg_brand.csv`
-- a matrix of the selected 13,653 CBGs and 924 brands, where the value means number of visits.
+- a matrix of the selected 13,653 CBGs and 924 brands, where the value means the number of visits.
 
 `selected_brands.csv`
 - 924 brands selected for this paper.
@@ -65,13 +65,13 @@ The data that support the findings of this study are available from [SafeGraph](
 - 1175 brands and their six-digit NAICS code, top_category (4-digit category names), and sub_category (6-digit category names).
 
 `selected_cbg_stats.csv`
-- relevant census data for the selected CBGs: income, income margine of error, proportion of bachelor or higher degree, weighted years of education, median age, proportion of male, proportion of white.
+- relevant census data for the selected CBGs: income, income margin of error, proportion of bachelor's or higher degree, weighted years of education, median age, proportion of males, proportion of whites.
 
 `covisit_edgelist.csv`
-- a edgelist of co-visits between brands, where each row contains a brand, a co-visited brand, and the proportion of visits to the first brand that also visited the second brand in the same month.
+- an edgelist of co-visits between brands, where each row contains a brand, a co-visited brand, and the proportion of visits to the first brand that also visited the second brand in the same month.
 
 `yelp_labelled.csv`
-- 924 brands and their labelled yelp price levels, combining data from Yelp Open Dataset and manual labelling.
+- 924 brands and their labelled Yelp price levels, combining data from the Yelp Open Dataset and manual labelling.
 - 148 brands with no data labelled as NA.
 
 `brand_median.csv`
