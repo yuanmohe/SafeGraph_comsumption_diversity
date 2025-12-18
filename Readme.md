@@ -8,8 +8,9 @@ The data that support the findings of this study are available from [SafeGraph](
 
 `diversity_tools.py` functions for calculating and presenting diversity measures.
 
-`01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis.
-- outputs: Appendix Table A1 and Figure A1
+`01_data_cleaning.ipynb` processes the raw SafeGraph and Census data into what we need for the analysis; simple checks for sampling.
+
+- outputs: Appendix Table A1, Figure A1, Figure A2
 - aggregated data: selected_cbg_brand.csv, selected_brands.csv, brand_cat.csv, selected_cbg_stats.csv, covisit_edgelist.csv
 
 `02_yelp_data.ipynb` cleans yelp data.
@@ -23,7 +24,7 @@ The data that support the findings of this study are available from [SafeGraph](
 - aggregated data: brand_median.csv
 
 `05_diversity.ipynb` calculates diversity measures and conduct initial analyses.
-- outputs: Figure 4, Table 1 and Table 2.
+- outputs: Figure 4, Table 1, Table 2, Table A2.
 - aggregated data: cbg_diversity.csv, selected_brand_cat3d.csv
 
 `06_availability_mobility.ipynb` calculates the local availability and mobility measures of the selected CBGs.
